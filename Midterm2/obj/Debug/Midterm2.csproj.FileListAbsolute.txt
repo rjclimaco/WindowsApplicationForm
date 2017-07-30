@@ -1,0 +1,11 @@
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\bin\Debug\Midterm2.exe.config
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\bin\Debug\Midterm2.exe
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\bin\Debug\Midterm2.pdb
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\bin\Debug\MySql.Data.dll
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\bin\Debug\MySql.Data.xml
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\obj\Debug\Midterm2.csprojResolveAssemblyReference.cache
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\obj\Debug\Midterm2.Form1.resources
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\obj\Debug\Midterm2.Properties.Resources.resources
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\obj\Debug\Midterm2.csproj.GenerateResource.Cache
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\obj\Debug\Midterm2.exe
+c:\users\jeanne\documents\visual studio 2015\Projects\Midterm2\Midterm2\obj\Debug\Midterm2.pdb
